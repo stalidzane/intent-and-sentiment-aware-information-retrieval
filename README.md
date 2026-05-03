@@ -3,6 +3,15 @@
 > A hybrid retrieval pipeline that combines lexical search, neural re-ranking, and sentiment-driven diversity to help non-expert users navigate financial information safely.
 
 ---
+## ⚠️ Environment Note
+
+This notebook was developed and tested on **Google Colab** (Python 3.10, GPU runtime).  
+To run it, open it directly in Colab:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/stalidzane/intent-and-sentiment-aware-information-retrieval/blob/main/Financial_Question_Answering.ipynb)
+
+Running locally may require additional setup (Java for PyTerrier, CUDA, wget).
+---
 
 ## Overview
 
