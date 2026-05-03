@@ -124,12 +124,10 @@ Pre-computed artefacts (expanded docs, rewritten queries) are fetched automatica
 
 ## Team
 
-This project was developed as part of the **Information Retrieval** course at [Università degli Studi di Milano-Bicocca](https://www.unimib.it/) (January 2026).
+This project was developed as part of the **Information Retrieval** course (January 2026).
 
-| Name | GitHub |
-|------|--------|
-| Michele Pio Lacagnina | [@MicheleLac](https://github.com/MicheleLac) |
-| Linda Stalidzane | [@stalidzane](https://github.com/stalidzane) |
-| Dario Zanini | — |
-
-> Contributions were distributed across baseline experiments, advanced pipeline design, and analysis — see the [report](report/Project_Report.pdf) for a detailed breakdown.
+| Name | GitHub | Contributions |
+|------|--------|---------------|
+| Linda Stalidzane | [@stalidzane](https://github.com/stalidzane) | Report, Baseline 3, Advanced Exp. 1, Advanced Exp. 2 |
+| Michele Pio Lacagnina | [@MicheleLac](https://github.com/MicheleLac) | Report, Baseline 2, Advanced Exp. 1, Advanced Exp. 2 |
+| Dario Zanini | — | Report, Baseline 1 |
